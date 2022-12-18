@@ -26,6 +26,13 @@ docker-compose up
 ````
 
 - Get Metabase via docker 
+```
+https://www.metabase.com/docs/latest/installation-and-operation/running-metabase-on-docker
+
+https://gist.githubusercontent.com/eliashussary/379e44a99e2389bd6a8ea6a23c2d5af8/raw/688c4bbe2b30c922cd53cb9efa7453cf4eda2e8d/metabase-postgres.docker-compose.yml
+
+Delete the connection with postgrees, cause we are to connect the sonowflake
+````
 
 - To create script for execution it
 
