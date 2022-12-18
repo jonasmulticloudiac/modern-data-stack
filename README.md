@@ -8,8 +8,8 @@ InfraStructure:
 - Setup the permitions to gitpod and github
 
 
-- Get Aibyte via docker   #https://docs.airbyte.com/quickstart/deploy-airbyte/  - fork and create our branch { dev }
-    git clone git clone -b dev  https://github.com/jonasmulticloudiac/airbyte.git
+- Get Aibyte via docker   #https://docs.airbyte.com/quickstart/deploy-airbyte/  - fork and create our branch { developer }
+    git clone git clone -b developer  https://github.com/jonasmulticloudiac/airbyte.git
     cd airbyte
     docker-compose up
 
